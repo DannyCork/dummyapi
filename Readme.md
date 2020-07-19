@@ -1,7 +1,7 @@
 Tests for Dummy api
 
 Installation
-- Install requirements pip3 intall -r requirements.txt -U
+- Install requirements pip3 install -r requirements.txt -U
 
 Execution
-- pytest test.py -s
+- python3 test.py
